@@ -63,9 +63,11 @@ Todo se abre con **F7** o con el medallón **LEGADO** del menú principal:
 ## English
 
 **Legado** adds meta-progression to Sol Cesto: hero mastery (10 levels), a permanent-gold workshop, optional oaths (harder runs, more gold), tooth affinity, records and an end-of-run summary.
+*Designed and tested by Glasius.Mods, coded together with Claude (Anthropic's AI).*
 **Install:** download the release ZIP, unzip, close the game, double-click `INSTALAR.bat`, then press **F7** in game. **Uninstall:** `DESINSTALAR.bat`.
 
 ## Créditos
 
-Hecho por **Glasius.Mods**. Sol Cesto pertenece a **Tambouille** y **Goblinz Publishing**; este proyecto no está afiliado a ellos.
+Diseñado, dirigido y probado por **Glasius.Mods**, programado en equipo con **Claude** (IA de Anthropic).
+Sol Cesto pertenece a **Tambouille** y **Goblinz Publishing**; este proyecto no está afiliado a ellos.
 El código se publica bajo licencia [MIT](LICENSE).
