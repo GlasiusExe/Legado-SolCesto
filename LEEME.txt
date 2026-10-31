@@ -1,0 +1,24 @@
+LEGADO - Progresion para Sol Cesto  (mod no oficial)  -  Glasius.Mods
+=====================================================================
+
+INSTALAR
+  1. Descomprime este ZIP en cualquier carpeta (por ejemplo, el Escritorio).
+  2. Cierra Sol Cesto.
+  3. Doble clic en INSTALAR.bat.
+     - Encuentra el juego solo en tus bibliotecas de Steam.
+     - Si Windows muestra "Windows protegio su PC": clic en "Mas informacion" > "Ejecutar de todas formas".
+  4. Abre Sol Cesto y pulsa F7 (o el medallon LEGADO del menu).
+
+DESINSTALAR
+  Doble clic en DESINSTALAR.bat. El juego vuelve a ser el original.
+
+SI STEAM ACTUALIZA EL JUEGO
+  El mod se desactiva solo. Vuelve a ejecutar INSTALAR.bat.
+
+---------------------------------------------------------------------
+ENGLISH
+  Install: unzip, close the game, double-click INSTALAR.bat, open Sol Cesto, press F7.
+  Uninstall: double-click DESINSTALAR.bat.
+  After a Steam update: run INSTALAR.bat again.
+
+Sol Cesto pertenece a Tambouille y Goblinz Publishing. Este mod no incluye archivos del juego.
